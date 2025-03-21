@@ -1,4 +1,4 @@
-# ask for full name in incorrect spacing
+# ask for full name in incorrect casing
 full_name = input("Input your full name in incorrect spacing: ")
 
 # convert to pascal case
